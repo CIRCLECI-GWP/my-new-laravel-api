@@ -1,6 +1,6 @@
 # Build a CI powered RESTful API with Laravel
 
-[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/my-laravel-api.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/my-laravel-api)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/my-new-laravel-api.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/my-new-laravel-api)
 
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
@@ -11,10 +11,10 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/CIRCLECI-GWP/my-laravel-api.git
+git clone https://github.com/CIRCLECI-GWP/my-new-laravel-api.git
 
 # CD into the directory
-cd my-laravel-api
+cd my-new-laravel-api
 
 # Install dependencies
 composer install
